@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/venv/Include/proto_utils" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Include/proto_data_utils" />
+      <excludeFolder url="file://$MODULE_DIR$/venv/Include/proto_data_utils/Data" />
+    </content>
+    <content url="file://$MODULE_DIR$/venv/Include/proto_data_utils" />
+    <content url="file://$MODULE_DIR$/venv/Include/proto_data_utils/Data" />
+    <content url="file://$MODULE_DIR$/venv/Include/proto_utils/Data" />
+    <orderEntry type="jdk" jdkName="Python 3.6 (ProtoNets) (3)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
