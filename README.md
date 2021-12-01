@@ -1,4 +1,9 @@
 # SSMN
+![](https://img.shields.io/badge/language-python-orange.svg)
+[![](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/fyancy/MetaFD/blob/main/LICENSE)
+[![](https://img.shields.io/badge/CSDN-燕策西-blue.svg)](https://blog.csdn.net/weixin_43543177?spm=1001.2101.3001.5343)
+<!-- 如何设计GitHub badge: https://lpd-ios.github.io/2017/05/03/GitHub-Badge-Introduction/ -->
+
 The PyTorch implementation for `semi-supervised meta-learning networks (SSMN)` in [Semi-supervised meta-learning networks with squeeze-and-excitation attention for few-shot fault diagnosis](https://www.sciencedirect.com/science/article/pii/S0019057821001543).
 
 ## Abstract
